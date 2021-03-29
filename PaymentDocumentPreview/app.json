@@ -1,0 +1,45 @@
+{
+  "id": "e3f7da69-87d2-4861-8c5d-e6d39fbd5c67",
+  "name": "Payment Proposal Document Preview",
+  "publisher": "Advanced Continia Solutions",
+  "version": "1.0.0.0",
+  "brief": "Integration of Document Capture preview window in OPPlus",
+  "description": "Free (proof of concept) solutions for partners and end customers of Continia soltuions.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://github.com/sradloff/cdc-opplus/",
+  "logo": "./ressources/images/logo.png",
+  "dependencies": [
+    {
+      "id": "88cf5d4c-8afc-4a98-9cb7-212196c51d74",
+      "name": "OPplus 365",
+      "publisher": "gbedv GmbH & Co. KG",
+      "version": "17.0.0.0"
+    },
+    {
+      "id": "6da8dd2f-e698-461f-9147-8e404244dd85",
+      "name": "Continia Document Capture 365",
+      "publisher": "Continia Software",
+      "version": "6.5.0.0"
+    },
+    {
+      "id": "4b915d7e-c02a-435f-85ab-649086c1e002",
+      "name": "Continia Core",
+      "publisher": "Continia Software",
+      "version": "3.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 62000,
+      "to": 62010
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://PaymentDocumentPreview.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
