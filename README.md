@@ -1,4 +1,3 @@
-# Document capture preview app for opplus 365 
-Examples how to integrate Continia Document Capture with gbedv opplus.
+I reorganized the repository/github structure. I created new repositories at a new github organization.
 
-![Alt text](/PaymentDocumentPreview/ressources/images/Preview-opplus365-payment-proposal-line.png?raw=true "Optional Title")
+You can find all solutions/extenions at their new repository location: [github.com/document-capture](https://github.com/document-capture "Document Capture repositories")
